@@ -1,0 +1,10 @@
+{
+    "name": "dvaslona/fancybox",
+    "description": "Пакет FancyBox для Composer",
+    "authors":
+    [
+        {
+            "name": "Jānis Skarnelis"
+        }
+    ]
+}
